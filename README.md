@@ -16,15 +16,15 @@ When tackling the XOR problem, which is non-linearly separable, our genetic algo
 ## 3.1 Experiments
 Two experiments were conducted using the following parameters:
 •	Experiment 1:
-    *	Population size: 200
-    *	Generations: 100
-    *	Mutation rate: 0.7
-    *	Data: Linearly separable (all data points are perfectly classifiable)
+##### Population size: 200
+##### Generations: 100
+##### Mutation rate: 0.7
+##### Data: Linearly separable (all data points are perfectly classifiable)
 •	Experiment 2:
-    *	Population size: 150
-    *	Generations: 200
-    *	Mutation rate: 0.8
-    *	Data: Non-linearly separable (XOR problem)
+#### Population size: 150
+#### Generations: 200
+#### Mutation rate: 0.8
+#### Data: Non-linearly separable (XOR problem)
 
 ### 3.2 Findings
 •	Experiment 1:
